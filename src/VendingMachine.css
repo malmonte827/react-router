@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.items a{
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+}
